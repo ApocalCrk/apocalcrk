@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apocalcrk" alt="apocalcrk" /></a> </p>
 
-- 🔭 I’m currently working on [Siatma Mobile (Unofficial)](https://github.com/ApocalCrk/siatma-release){:target="_blank"}
+- 🔭 I’m currently working on <a href="https://github.com/ApocalCrk/siatma-release" target="_blank">Siatma Mobile (Unofficial)</a>
 
 - 🌱 I’m currently learning **Next.js & DevOps**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-terminal-ruby.vercel.app/](https://portfolio-terminal-ruby.vercel.app/){:target="_blank"}
+- 👨‍💻 All of my projects are available at <a href="https://portfolio-terminal-ruby.vercel.app/" target="_blank">my portfolio</a>
 
 - 📫 How to reach me **ferdyfirmansyah3026@gmail.com**
 
