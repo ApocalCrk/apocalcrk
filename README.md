@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on <a href="https://github.com/ApocalCrk/siatma-release" target="_blank">Siatma Mobile (Unofficial)</a>
 
-- 🌱 I’m currently learning **Next.js & DevOps**
-
 - 👨‍💻 All of my projects are available at <a href="https://portfolio-terminal-ruby.vercel.app/" target="_blank">CLI portfolio</a> & <a href="https://portgui.noturminesv.my.id" target="_blank">GUI portfolio</a>
 
 - 📫 How to reach me **ferdyfirmansyah3026@gmail.com**
