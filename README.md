@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Ferday and I'm a Mobile & Web Developer based in Indonesia.</h2>
+<h2 align="center">Hi 👋! My name is Ferday and I'm a Mobile & Web Developer based in Indonesia</h2>
 
 ###
 
