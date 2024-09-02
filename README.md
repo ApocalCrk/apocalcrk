@@ -12,7 +12,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.tenor.com/m/J7FOSZsIKN4AAAAd/doge-doge-coin.gif"  />
+<img align="right" height="150" src="https://media1.tenor.com/m/J7FOSZsIKN4AAAAd/doge-doge-cof"  />
 
 ###
 
