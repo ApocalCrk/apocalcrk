@@ -12,8 +12,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.tenor.com/m/OWI_ai132b0AAAAC/wink-dog.gif"  />
-
 ###
 
 <div align="left">
