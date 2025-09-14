@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there 
 
 I'm a passionate developer who loves to build things and solve problems through code.
 
